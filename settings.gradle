@@ -1,0 +1,2 @@
+rootProject.name = "Erlangga-KalkulatorBangunDatar"
+include ':app'
